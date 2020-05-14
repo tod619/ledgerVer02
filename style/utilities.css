@@ -18,22 +18,26 @@
   border-radius: 5px;
 }
 
-.btn-primary {
+.btn-primary,
+.bg-primary {
   background-color: #28a745;
   color: #fff;
 }
 
-.btn-secondary {
+.btn-secondary,
+.bg-secondary {
   background-color: #0284d0;
   color: #fff;
 }
 
-.btn-dark {
+.btn-dark,
+bg-dark {
   background-color: #333;
   color: #fff;
 }
 
-.btn-light {
+.btn-light,
+.bg-light {
   background-color: #f4f4f4;
   color: #333;
 }

@@ -72,4 +72,11 @@ img {
   font-weight: 400;
 }
 
+.hero {
+  background: url("../imgs/home/showcase.jpg") no-repeat center center/cover;
+  height: 100vh;
+  position: relative;
+  color: #fff;
+}
+
 /* End Section: Header */

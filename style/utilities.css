@@ -41,3 +41,16 @@
 .btn:hover {
   opacity: 0.9;
 }
+
+/* Flex-items class */
+.flex-items {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.flex-items > div {
+  padding: 20px;
+}

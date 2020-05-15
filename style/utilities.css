@@ -65,6 +65,10 @@ bg-dark {
 }
 
 /* Flex Columns class */
+.flex-columns.flex-reverse .row {
+  flex-direction: row-reverse;
+}
+
 .flex-columns .row {
   display: flex;
   flex-direction: row;
